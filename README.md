@@ -1,6 +1,6 @@
 ## SQLAlchemy Flask App deployment
 
-Using SQLAlchemy and flask, I have created a python app that hosts weather data collected from weather stations in Hawaii.
+Using SQLAlchemy and flask, this python app that hosts weather data collected from weather stations in Hawaii.
 The data is served locally and can be requested via API. All requested data is returned in JSON format. 
 
 ### Data Extraction
